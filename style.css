@@ -1,0 +1,21 @@
+*{
+    margin: 1%;
+}
+body{
+    border: 1px solid black;
+}
+.logo{
+    text-align: center;
+}
+.info{
+    text-align: center;    
+}
+.integrantes{
+    text-align: center;    
+    
+}
+.fecha{
+    text-align: right;    
+    width: 100%;
+    
+}
